@@ -1,8 +1,0 @@
-export default function About() {
-    return(
-        <>
-             <p className="display-4 mt-5">ABOUT</p>
-             <p>Lorem ipsum dolor sit amet, consectetur Cras lacus purus, tincidunt a felis non, condimentum varius mi. Nam est tortor, pharetra id elementum eget, fermentum ut neque. Cras pellentesque sagittis dui. Nunc quis urna ornare, feugiat diam ut, dictum sem. Integer venenatis felis id eros consequat faucibus. Vivamus a consectetur diam. Praesent in mauris risus. Donec pharetra ligula eget enim accumsan volutpat. Nullam ex arcu, malesuada gravida efficitur nec, convallis sed ipsum. Nulla neque ipsum, rutrum eu sagittis at, malesuada in lorem. Maecenas at elementum ante. Fusce lobortis vestibulum tellus ut pulvinar. Etiam hendrerit efficitur risus, a accumsan eros ultrices commodo. Donec vel sapien dolor. Proin lobortis, ante quis convallis dictum, ipsum felis vehicula sem, a lobortis enim sem non neque. adipiscing elit. Curabitur non ornare nunc. Sed fermentum purus nisl, at tempus lacus porttitor vel. Maecenas sed metus turpis. Etiam ac ex augue. Cras nec dui aliquam justo malesuada iaculis eget vel ipsum. Fusce nulla magna, convallis non vehicula a, consequat at justo. Aliquam metus velit, pulvinar a dignissim non, lobortis ut neque. Cras pharetra libero elit. Phasellus auctor augue felis, imperdiet imperdiet purus cursus non. Aliquam erat volutpat. Ut sed urna tempus, luctus nunc id, blandit nisl. Aliquam volutpat quam nec elit faucibus, non iaculis lorem sollicitudin.</p>
-        </>
-    )
-}
