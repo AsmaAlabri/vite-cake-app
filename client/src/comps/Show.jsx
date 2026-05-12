@@ -10,7 +10,7 @@ export default function Show() {
 
     const getCakes = async () => {
         try {
-            const myData = await axios.get("https:/cake-app-server-vm08.onrender.com//activity")
+            const myData = await axios.get("https://cake-app-server-vm08.onrender.com/activity")
             console.log(myData)
             setMyCakes(myData.data)
         } catch (err) {
